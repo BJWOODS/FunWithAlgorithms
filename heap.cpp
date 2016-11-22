@@ -2,8 +2,6 @@
 Author: Brandon Woodard
 ID: 3082
 Date: 11/5/2016
-Course: CST 370
-Prof. Byun
 Title: Heap.cpp
 Abstract: C++ program called heap.cpp to determine if a sequence of numbers is a heap or not
 */
